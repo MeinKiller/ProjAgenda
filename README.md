@@ -7,4 +7,4 @@ Pesquisar aniversariantes do mês,
 Pesquisar contato por nome,
 Alterar telefone do contato pesquisando por nome,
 Remover contato pesquisando por nome e 
-Excluir todos os contatos
+Excluir todos os contatos.
